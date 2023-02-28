@@ -1,1 +1,2 @@
 # Coursera-class
+theme: minama
